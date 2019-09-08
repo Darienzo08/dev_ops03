@@ -5,4 +5,4 @@
 * Git
 * Subversion
 * CVS
-* vá-te a merdas
+* vá-te 
